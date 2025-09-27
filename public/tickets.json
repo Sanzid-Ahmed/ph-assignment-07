@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issue - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still can't access the dashboard.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failure - Order #2345",
+    "description": "Customer reports that their payment for order #2345 is not processing. Tried multiple cards without success.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 1003,
+    "title": "Feature Request - Dark Mode",
+    "description": "Customer requested a dark mode option for the dashboard to reduce eye strain during night use.",
+    "customer": "Bob Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 1004,
+    "title": "App Crash on Startup - Android",
+    "description": "Customer reports that the mobile app crashes immediately after opening on Android devices version 12 and above.",
+    "customer": "Eve Davis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 1005,
+    "title": "Incorrect Billing - Double Charge",
+    "description": "Customer was charged twice for the monthly subscription. They request a refund for the extra charge.",
+    "customer": "Michael Lee",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 1006,
+    "title": "Email Notification Delay",
+    "description": "Customer reports delays in receiving email notifications after triggering important events on the platform.",
+    "customer": "Sophia Brown",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 1007,
+    "title": "Profile Picture Upload Fails",
+    "description": "Customer is unable to upload their profile picture on the web app. Upload button shows no response.",
+    "customer": "David Wilson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-26"
+  },
+  {
+    "id": 1008,
+    "title": "Dashboard Slow Loading",
+    "description": "Customer reports that dashboard pages take too long to load, especially when accessing reports with large datasets.",
+    "customer": "Linda Martinez",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-27"
+  },
+  {
+    "id": 1009,
+    "title": "Password Reset Link Broken",
+    "description": "Customer tried resetting their password, but the reset link redirects to a 404 page.",
+    "customer": "Chris Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-28"
+  },
+  {
+    "id": 1010,
+    "title": "App Notifications - No Sound on iOS",
+    "description": "Customer reports that notification sounds are not playing on iOS devices when receiving new messages.",
+    "customer": "Emma Anderson",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-29"
+  },
+  {
+    "id": 1011,
+    "title": "Data Export Fails for Large Datasets",
+    "description": "Customer attempts to export CSV files with large datasets, but the export process fails with an error.",
+    "customer": "Daniel Thomas",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-30"
+  },
+  {
+    "id": 1012,
+    "title": "Incorrect User Role Assignment",
+    "description": "New users are being assigned incorrect roles upon registration, which restricts access to necessary features.",
+    "customer": "Olivia White",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-10-01"
+  }
+]
