@@ -14,7 +14,7 @@
     "description": "Customer reports that their payment for order #2345 is not processing. Tried multiple cards without success.",
     "customer": "Alice Smith",
     "priority": "High",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2025-09-21"
   },
   {
@@ -41,7 +41,7 @@
     "description": "Customer was charged twice for the monthly subscription. They request a refund for the extra charge.",
     "customer": "Michael Lee",
     "priority": "High",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2025-09-24"
   },
   {
@@ -50,7 +50,7 @@
     "description": "Customer reports delays in receiving email notifications after triggering important events on the platform.",
     "customer": "Sophia Brown",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2025-09-25"
   },
   {
@@ -68,7 +68,7 @@
     "description": "Customer reports that dashboard pages take too long to load, especially when accessing reports with large datasets.",
     "customer": "Linda Martinez",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2025-09-27"
   },
   {
@@ -86,7 +86,7 @@
     "description": "Customer reports that notification sounds are not playing on iOS devices when receiving new messages.",
     "customer": "Emma Anderson",
     "priority": "Low",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2025-09-29"
   },
   {
@@ -104,7 +104,7 @@
     "description": "New users are being assigned incorrect roles upon registration, which restricts access to necessary features.",
     "customer": "Olivia White",
     "priority": "High",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2025-10-01"
   }
 ]
